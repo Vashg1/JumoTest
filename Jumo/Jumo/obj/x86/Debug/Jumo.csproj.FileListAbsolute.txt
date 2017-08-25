@@ -1,0 +1,9 @@
+C:\Users\govgo\Documents\Visual Studio 2010\Projects\Jumo\Jumo\bin\Debug\Jumo.exe
+C:\Users\govgo\Documents\Visual Studio 2010\Projects\Jumo\Jumo\bin\Debug\Jumo.pdb
+C:\Users\govgo\Documents\Visual Studio 2010\Projects\Jumo\Jumo\obj\x86\Debug\Jumo.Form1.resources
+C:\Users\govgo\Documents\Visual Studio 2010\Projects\Jumo\Jumo\obj\x86\Debug\Jumo.Properties.Resources.resources
+C:\Users\govgo\Documents\Visual Studio 2010\Projects\Jumo\Jumo\obj\x86\Debug\Jumo.csproj.GenerateResource.Cache
+C:\Users\govgo\Documents\Visual Studio 2010\Projects\Jumo\Jumo\obj\x86\Debug\Jumo.exe.licenses
+C:\Users\govgo\Documents\Visual Studio 2010\Projects\Jumo\Jumo\obj\x86\Debug\Jumo.exe
+C:\Users\govgo\Documents\Visual Studio 2010\Projects\Jumo\Jumo\obj\x86\Debug\Jumo.pdb
+C:\Users\govgo\documents\visual studio 2010\Projects\Jumo\Jumo\obj\x86\Debug\Jumo.csprojResolveAssemblyReference.cache
